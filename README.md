@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year Computer Science Engineering Student at **MVJ College of Engineering** (CGPA: 8.34)
+- 🎓 Computer Science Graduate from **MVJ College of Engineering** (CGPA: 8.34)
 - 💼 Former **Software Engineer Intern @ Pushkala Technologies Pvt. Ltd.**
 - 💻 Former **Front End Web Developer Intern @ Edunet Foundation**
 - 🌱 Currently learning **FastAPI, AWS, AI/ML, and Advanced Python**
